@@ -1,0 +1,7 @@
+/*鼠标样式开始*/
+/*鼠标指针样式*/
+body{cursor:url(/ass/images/sbys_blue/pointer.cur),default;}
+/*鼠标链接指针样式*/
+a:hover{cursor:url(/ass/images/sbys_blue/link.cur),pointer;}
+/*鼠标样式结束*/
+
